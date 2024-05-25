@@ -36,8 +36,6 @@
   "scripts": {
     "start": "webpack serve --mode development",
     "build": "webpack --mode production",
-    "lint": "eslint . --fix",
-    "test": "jest --passWithNoTests",
-    "e2e": "jest --testPathPattern=./e2e/"
+    "lint": "eslint . --fix"
   }
 }
