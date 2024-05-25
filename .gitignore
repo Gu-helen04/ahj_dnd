@@ -1,6 +1,5 @@
 dist
 doc
-.idea
 
 # Logs
 logs
@@ -8,6 +7,7 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+подсказки для старта.txt
 
 # Runtime data
 pids
@@ -82,7 +82,3 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
-
-# Thumbnails
-Thumbs.db
-Thumbs.db:encryptable
